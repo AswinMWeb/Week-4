@@ -59,7 +59,7 @@
 }
 
 .item2 .galaxy {
-  flex-grow: 1; 
+  flex-grow: 1;
   height: 5cm;
   object-fit: cover;
 }
